@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polar_Codes-QKD_BB84-Post-Processing_C++", "Polar_Codes-QKD_BB84-Post-Processing_C++\Polar_Codes-QKD_BB84-Post-Processing_C++.vcxproj", "{615B5355-B010-46B6-BB98-0586A443BB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Debug|x64.ActiveCfg = Debug|x64
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Debug|x64.Build.0 = Debug|x64
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Debug|x86.ActiveCfg = Debug|Win32
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Debug|x86.Build.0 = Debug|Win32
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Release|x64.ActiveCfg = Release|x64
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Release|x64.Build.0 = Release|x64
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Release|x86.ActiveCfg = Release|Win32
+		{615B5355-B010-46B6-BB98-0586A443BB04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06864E18-1760-4CBD-ABE4-4691416AE86F}
+	EndGlobalSection
+EndGlobal
