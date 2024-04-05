@@ -1,1 +1,1 @@
-# Polar_Codes-QKD_BB84-Post-Processing_C++
+This is the Polar Code Implementation for Post Processing of Quantum Key Distribution BB84 Protocol.
